@@ -1,0 +1,43 @@
+body{
+    background:#7da6e9;
+}
+
+#title, .subtitle{
+    color: rgb(0, 0, 0);
+}
+
+.post_title{
+    color: rgb(8, 8, 8);
+    font-size: 18px;
+    font-style:arial;
+    font-family: arial
+}
+
+.head{
+    color: rgb(5, 5, 5);
+    font-size: 18px;
+    font-family: consolas;
+    
+
+
+}
+.post_title{
+    color: rgb(15, 15, 238);
+    font-size: 25px;
+    font-family: consolas;
+}
+    
+
+
+    
+
+}
+
+footer {
+    color: Blue;
+    font-size: 20px;
+    font-family: consolas;
+}
+a,p {
+    color: rgb(0, 0, 0);
+}
